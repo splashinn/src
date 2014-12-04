@@ -1,3 +1,3 @@
 # C++ Payroll Program
 
-### Copyright (C) Kyle Maune 2014
+Copyright (c) 2014 Kyle Maune
